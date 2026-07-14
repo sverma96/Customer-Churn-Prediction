@@ -7,11 +7,11 @@ Built as part of **UML501 – Machine Learning**
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Customer churn — when a customer stops using a company's service — directly impacts revenue and growth. Since acquiring a new customer costs significantly more than retaining an existing one, businesses benefit greatly from identifying at-risk customers *before* they leave. This project builds a binary classification model that estimates each customer's probability of churning, based on their account, billing, and service usage data.
 
-## 🧠 Key Results
+##  Key Results
 
 | Metric | Value |
 |---|---|
